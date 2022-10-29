@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\bin\Debug\net6.0\FileManagement.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\bin\Debug\net6.0\FileManagement.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\bin\Debug\net6.0\FileManagement.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\bin\Debug\net6.0\FileManagement.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\refint\FileManagement.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\FileManagement.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\FileManagement\FileManagement\obj\Debug\net6.0\ref\FileManagement.dll
